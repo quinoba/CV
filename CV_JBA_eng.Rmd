@@ -1,0 +1,78 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Joaquín Barrutia Álvarez
+
+jobtitle: "Research Assistant, ITAM"
+address: "Jardines del Pedregal, Coyoacán, 04500, CDMX, México"
+fontawesome: yes
+email: joaquinbarrutia@gmail.com  
+github: quinoba
+twitter: j_barrutia
+#osf: "Enter 5 digit osf string here"
+phone: "+52 5532037535"
+#web: guinness.com
+#updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+\cfoot{\scriptsize  Joaquín Barrutia - CV}
+
+# Education
+
+*Oak Bay High School*, Victoria, Canada. Academic Exchange \hfill 2013-2014
+
+*ITAM*, Mexico City, Mexico. BA in Economics (Honours)^[[Thesis](https://github.com/quinoba/Spillovers_Cooperation): We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico]  \hfill 2016-2021
+
+*ITAM*, Mexico City, Mexico. Data Science & Machine Learning Certificate \hfill 2021-2022
+
+# Experience
+
+## *UNIFIN Financiera*, Mexico City, Mexico
+
+Structured Financing Analyst \hfill 2020-2022
+
+## *ITAM*, Mexico City, Mexico
+
+RA to Antonella Bandiera (ITAM), Horacio Larreguy (ITAM), John Marshall (Columbia) \hfill 2022-
+
+
+# Achievements
+
+Cambridge English: Advanced (CAE)
+
+Chinese Proficiency Test (HSK1)
+
+Bloomberg Market Concepts
+
+# Skills
+
+## Software
+
+Microsoft Office, Python, QGIS, R
+
+## Languages
+
+Spanish (native), English (fluent), Mandarin Chinese (beginner)
+
+
+# Research Interests 
+
+Development Economics
+
+Cooperative Economics
+
+Income Distribution
+
