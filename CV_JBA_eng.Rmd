@@ -32,21 +32,33 @@ urlcolor: blue
 
 # Education
 
-*Oak Bay High School*, Victoria, Canada. Academic Exchange \hfill 2013-2014
+## ITAM, Mexico City, Mexico 
+- Data Science & Machine Learning Certificate \hfill 2021-2022
 
-*ITAM*, Mexico City, Mexico. BA in Economics (Honours)^[[Thesis](https://github.com/quinoba/Spillovers_Cooperation): We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico]  \hfill 2016-2021
+- BA (Honors), Economics^[[Thesis](https://github.com/quinoba/Spillovers_Cooperation): We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico]  \hfill 2016-2021
 
-*ITAM*, Mexico City, Mexico. Data Science & Machine Learning Certificate \hfill 2021-2022
+## Oak Bay High School, Victoria, Canada
+- Academic Exchange \hfill 2013-2014
 
 # Experience
 
-## *UNIFIN Financiera*, Mexico City, Mexico
+## ITAM, Mexico City, Mexico
 
-Structured Financing Analyst \hfill 2020-2022
+- RA to Antonella Bandiera (ITAM), Horacio Larreguy (ITAM), John Marshall (Columbia) \hfill 2022-
 
-## *ITAM*, Mexico City, Mexico
+## UNIFIN Financiera, Mexico City, Mexico
 
-RA to Antonella Bandiera (ITAM), Horacio Larreguy (ITAM), John Marshall (Columbia) \hfill 2022-
+- Structured Financing Analyst \hfill 2020-2022
+
+# Skills
+
+## Software
+
+- Microsoft Office, Python, QGIS, R
+
+## Languages
+
+- Spanish (native), English (fluent), Mandarin Chinese (beginner)
 
 
 # Achievements
@@ -56,17 +68,6 @@ Cambridge English: Advanced (CAE)
 Chinese Proficiency Test (HSK1)
 
 Bloomberg Market Concepts
-
-# Skills
-
-## Software
-
-Microsoft Office, Python, QGIS, R
-
-## Languages
-
-Spanish (native), English (fluent), Mandarin Chinese (beginner)
-
 
 # Research Interests 
 
