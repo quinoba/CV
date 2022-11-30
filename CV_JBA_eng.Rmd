@@ -42,7 +42,7 @@ urlcolor: blue
 
 # Experience
 
-## Center for Economics Research ([CIE](http://cie.itam.mx/)), ITAM, Mexico City
+## Center for Economic Research ([CIE](http://cie.itam.mx/)), ITAM, Mexico City
 
 - Reaserch Assistant \hfill 2022-
 
