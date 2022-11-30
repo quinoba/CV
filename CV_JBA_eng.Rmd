@@ -38,7 +38,7 @@ urlcolor: blue
 ## ITAM, Mexico City, Mexico 
 - Data Science & Machine Learning Certificate \hfill 2021-2022
 
-- B.A. (Honors), Economics^[[Thesis](https://github.com/quinoba/Spillovers_Cooperation): We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico]  \hfill 2016-2021
+- B.A. (Honors), Economics^[Thesis: [We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico](https://github.com/quinoba/Spillovers_Cooperation)]  \hfill 2016-2021
 
 # Experience
 
