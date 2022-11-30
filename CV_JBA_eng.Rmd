@@ -33,7 +33,7 @@ urlcolor: blue
 # Education
 
 ## Uppsala University, Uppsala, Sweden
-- M.A. Economics \hfill 2022-2024
+- M.A., Economics \hfill 2022-2024
 
 ## ITAM, Mexico City, Mexico 
 - Data Science & Machine Learning Certificate \hfill 2021-2022
