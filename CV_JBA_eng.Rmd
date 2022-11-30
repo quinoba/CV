@@ -9,13 +9,13 @@ title: "CV"
 author: Joaquín Barrutia Álvarez
 
 jobtitle: "Research Assistant, ITAM"
-address: "Jardines del Pedregal, Coyoacán, 04500, CDMX, México"
+address: "Uppsala, Sweden"
 fontawesome: yes
 email: joaquinbarrutia@gmail.com  
 github: quinoba
 twitter: j_barrutia
 #osf: "Enter 5 digit osf string here"
-phone: "+52 5532037535"
+phone: "+46 762617438"
 #web: guinness.com
 #updated: no
 
@@ -32,21 +32,25 @@ urlcolor: blue
 
 # Education
 
+## Uppsala University, Uppsala, Sweden
+- M.A. Economics \hfill 2022-2024
+
 ## ITAM, Mexico City, Mexico 
 - Data Science & Machine Learning Certificate \hfill 2021-2022
 
-- BA (Honors), Economics^[[Thesis](https://github.com/quinoba/Spillovers_Cooperation): We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico]  \hfill 2016-2021
-
-## Oak Bay High School, Victoria, Canada
-- Academic Exchange \hfill 2013-2014
+- B.A. (Honors), Economics^[[Thesis](https://github.com/quinoba/Spillovers_Cooperation): We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico]  \hfill 2016-2021
 
 # Experience
 
-## ITAM, Mexico City, Mexico
+## Center for Economics Research (CIE), ITAM, Mexico City
 
-- RA to Antonella Bandiera (ITAM), Horacio Larreguy (ITAM), John Marshall (Columbia) \hfill 2022-
+- Reaserch Assistant \hfill 2022-
 
-## UNIFIN Financiera, Mexico City, Mexico
+  - *RA to Antonella Bandiera (ITAM), Horacio Larreguy (ITAM), and John Marshall (Columbia).* 
+
+  - *Mercury Project research team partnering with fact-checkers in Kenya, Nigeria, South Africa, and Bolivia, conducting two studies to test approaches to counter misinformation and change users’ engagement with reliable information.*^[[Harnessing influencers to counter misinformation: Scalable solutions in the Global South](https://www.ssrc.org/programs/the-mercury-project/mercury-project-grantees/)]
+
+## UNIFIN Financiera, Mexico City
 
 - Structured Finance Analyst \hfill 2020-2022
 
@@ -58,22 +62,21 @@ urlcolor: blue
 
 ## Languages
 
-- Spanish (native), English (fluent), Mandarin Chinese (beginner)
+- Spanish (native), English (fluent), Mandarin Chinese (HSK1)
 
 
-# Achievements
+# Awards & Scholarships
 
-Cambridge English: Advanced (CAE)
+- Honorific Mention. Undergraduate Thesis. Citibanamex Economics Prize 2021 ([Top Prize in Economics in Mexico](https://www.banamex.com/premioeconomia/index.html)). 
 
-Chinese Proficiency Test (HSK1)
+- ITAM 50 percent academic excellence tuition waver for BA studies.
 
-Bloomberg Market Concepts
 
 # Research Interests 
 
-Development Economics
+- Development Economics
 
-Cooperative Economics
+- Cooperative Economics
 
-Income Distribution
+- Income Distribution
 
