@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "CV"
 author: Joaquín Barrutia Álvarez
 
-jobtitle: "Research Assistant, ITAM"
+jobtitle: "Research Assistant, CIE"
 address: "Uppsala, Sweden"
 fontawesome: yes
 email: joaquinbarrutia@gmail.com  
@@ -42,7 +42,7 @@ urlcolor: blue
 
 # Experience
 
-## Center for Economics Research (CIE), ITAM, Mexico City
+## Center for Economics Research ([CIE](http://cie.itam.mx/)), ITAM, Mexico City
 
 - Reaserch Assistant \hfill 2022-
 
