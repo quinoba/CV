@@ -39,7 +39,7 @@ urlcolor: blue
 - Data Science & Machine Learning Certificate \hfill 2021-2022
 
 - B.A. (Honors), Economics  \hfill 2016-2021
-  - *[We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico.](https://github.com/quinoba/Spillovers_Cooperation) (Advisor: Emilio Gutiérrez)*
+  - *[We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico.](https://github.com/quinoba/Spillovers_Cooperation) (Advisor: Emilio Gutiérrez).*
 
 # Experience
 
