@@ -38,7 +38,8 @@ urlcolor: blue
 ## ITAM, Mexico City, Mexico 
 - Data Science & Machine Learning Certificate \hfill 2021-2022
 
-- B.A. (Honors), Economics^[Thesis: [We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico](https://github.com/quinoba/Spillovers_Cooperation)]  \hfill 2016-2021
+- B.A. (Honors), Economics  \hfill 2016-2021
+  - *[We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico](https://github.com/quinoba/Spillovers_Cooperation) (Advisor: Emilio Gutiérrez)*
 
 # Experience
 
@@ -65,13 +66,6 @@ urlcolor: blue
 - Spanish (native), English (fluent), Mandarin Chinese (HSK1)
 
 
-# Awards & Scholarships
-
-- Honorific Mention. Undergraduate Thesis. Citibanamex Economics Prize 2021 ([Top Prize in Economics in Mexico](https://www.banamex.com/premioeconomia/index.html)). 
-
-- ITAM 50 percent academic excellence tuition waiver for BA studies.
-
-
 # Research Interests 
 
 - Development Economics
@@ -79,4 +73,16 @@ urlcolor: blue
 - Cooperative Economics
 
 - Income Distribution
+
+
+# Awards & Scholarships
+
+- Honorific Mention. Undergraduate Thesis. [Citibanamex Economics Prize](https://www.banamex.com/premioeconomia/index.html). \hfill 2021
+
+- ITAM Special Mention Distinction. Awarded to students with an outstanding thesis
+defense and a final average grade above 8.5 out of 10. \hfill 2021
+
+- First Place. ITAM Hagamos Eco 1. Awarded for the production of audiovisual material explaining concepts for the Economics 101 course. \hfill 2021
+
+- ITAM 50 percent academic excellence tuition waiver for BA studies. \hfill 2016 - 2019
 
