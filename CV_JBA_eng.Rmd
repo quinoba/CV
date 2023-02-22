@@ -59,7 +59,7 @@ urlcolor: blue
 
 ## Software
 
-- Microsoft Office, Python, QGIS, R
+- Microsoft Office, \LaTeX, Python, QGIS, R
 
 ## Languages
 

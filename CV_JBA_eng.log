@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.24)  22 FEB 2023 16:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.24)  22 FEB 2023 16:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -500,7 +500,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  70i,11n,76p,1199b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc} </Users/joaquinbarrutia/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_JBA_eng.pdf (2 pages, 98699 bytes).
+Output written on CV_JBA_eng.pdf (2 pages, 98948 bytes).
 PDF statistics:
  149 PDF objects out of 1000 (max. 8388607)
  115 compressed objects within 2 object streams
