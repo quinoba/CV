@@ -39,7 +39,7 @@ urlcolor: blue
 - Data Science & Machine Learning Certificate \hfill 2021-2022
 
 - B.A. (Honors), Economics  \hfill 2016-2021
-  - *[We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico.](https://github.com/quinoba/Spillovers_Cooperation) (Advisor: Emilio Gutiérrez).*
+  - *[We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico](https://github.com/quinoba/Spillovers_Cooperation) (Advisor: Emilio Gutiérrez).*
 
 # Experience
 
@@ -55,7 +55,7 @@ urlcolor: blue
 
 - Structured Finance Analyst \hfill 2020-2022
 
-# Skills
+# Skills & Relevant Coursework
 
 ## Software
 
@@ -65,15 +65,13 @@ urlcolor: blue
 
 - Spanish (native), English (fluent), Mandarin Chinese (HSK1)
 
+## Relevant Coursework
+
+- Microeconomic Theory (ITAM, UU), Macroeconomic Theory (ITAM, UU), Econometric Theory (ITAM, UU), Real Analysis (ITAM), Univariate and Multivariate Calculus (ITAM), Linear Algebra (ITAM), Probability Theory (ITAM), Statistical Inference (ITAM), Applied Microeconometrics (ITAM, UU), Applied Macroeconometrics (ITAM)
 
 # Research Interests 
 
-- Development Economics
-
-- Cooperative Economics
-
-- Income Distribution
-
+- Development Economics, Cooperative Economics, Income Distribution
 
 # Awards & Scholarships
 
