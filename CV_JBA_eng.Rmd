@@ -47,9 +47,9 @@ urlcolor: blue
 
 - Reaserch Assistant \hfill 2022-
 
-  - *RA to Antonella Bandiera (ITAM), Horacio Larreguy (ITAM), and John Marshall (Columbia).* 
-
-  - *Mercury Project research team partnering with fact-checkers in Kenya, Nigeria, South Africa, and Bolivia, conducting two studies to test approaches to counter misinformation and change users’ engagement with reliable information.*^[[Harnessing influencers to counter misinformation: Scalable solutions in the Global South.](https://www.ssrc.org/grantees/general-scalable-solutions-to-counter-misinformation-in-the-global-south/)]
+  - *Working in a Mercury Project research team with Antonella Bandiera (ITAM), Horacio Larreguy (ITAM), and John Marshall (Columbia), partnering with fact-checkers in Kenya, South Africa, and Bolivia, conducting two studies to test approaches to counter misinformation.*^[[Harnessing influencers to counter misinformation: Scalable solutions in the Global South.](https://www.ssrc.org/grantees/general-scalable-solutions-to-counter-misinformation-in-the-global-south/)]
+  
+  - *Some of my tasks include: using Twitter API to retrieve user information, cleaning data, running regression analysis, training and using Machine Learning models to predict outcomes, setting Twitter Ad Campaigns and collecting their data.*
 
 ## UNIFIN Financiera, Mexico City
 
@@ -67,7 +67,7 @@ urlcolor: blue
 
 ## Relevant Coursework
 
-- Microeconomic Theory (ITAM, UU), Macroeconomic Theory (ITAM, UU), Econometric Theory (ITAM, UU), Real Analysis (ITAM), Univariate and Multivariate Calculus (ITAM), Linear Algebra (ITAM), Probability Theory (ITAM), Statistical Inference (ITAM), Applied Microeconometrics (ITAM, UU), Applied Macroeconometrics (ITAM)
+- Microeconomic Theory (ITAM, UU), Macroeconomic Theory (ITAM, UU), Econometric Theory (ITAM, UU), Applied Microeconometrics (ITAM, UU), Linear Algebra (ITAM), Real Analysis (ITAM), Univariate and Multivariate Calculus (ITAM), Probability Theory (ITAM), Statistical Inference (ITAM), Applied Macroeconometrics (ITAM)
 
 # Research Interests 
 
