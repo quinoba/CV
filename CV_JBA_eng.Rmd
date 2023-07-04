@@ -43,6 +43,13 @@ urlcolor: blue
 
 # Experience
 
+
+## Georgetown University, Washington, D.C.
+
+- Pre-Doctoral Fellow \hfill 2023-
+
+  - *Working as a pre-doctoral research fellow with Laurent Bouton (Georgetown) through the United Programs for Political Economy Research ([UPPER Network](https://sites.google.com/view/dcpec/upper)) as part of the Global Research Training Initiative.*
+
 ## Center for Economic Research ([CIE](http://cie.itam.mx/)), ITAM, Mexico City
 
 - Reaserch Assistant \hfill 2022-
@@ -54,6 +61,10 @@ urlcolor: blue
 ## UNIFIN Financiera, Mexico City
 
 - Structured Finance Analyst \hfill 2020-2022
+
+# Research Interests 
+
+- Cooperative Economics, Development Economics, Income Distribution, Political Economics
 
 # Skills & Relevant Coursework
 
@@ -69,15 +80,25 @@ urlcolor: blue
 
 - Microeconomic Theory (ITAM, UU), Macroeconomic Theory (ITAM, UU), Econometric Theory (ITAM, UU), Applied Microeconometrics (ITAM, UU), Linear Algebra (ITAM), Real Analysis (ITAM), Univariate and Multivariate Calculus (ITAM), Probability Theory (ITAM), Statistical Inference (ITAM), Applied Macroeconometrics (ITAM)
 
-# Research Interests 
+# Additional Training
 
-- Development Economics, Cooperative Economics, Income Distribution
+## University of Ioannina & University of Piraeus, Spetses, Greece
+
+- 5th Summer School in Advanced Economics (Lecturer: Jeffrey M. Woolridge) \hfill 2023
+
+  - *Course on Causal Inference, Potential Outcomes and Difference-in-Differences estimation.*
+
+
+## Causal Solutions
+
+- Difference-in-Differences Designs (Lecturer: Pedro H. C. Sant'Anna) \hfill 2023
+
 
 # Academic Awards
 
 - First Place. Undergraduate Thesis. Premio ExITAM ---Best thesis in Economics. \hfill 2023
 
-- Honorific Mention. Undergraduate Thesis. [Citibanamex Economics Prize](https://www.banamex.com/premioeconomia/index.html). \hfill 2021
+- Honorific Mention (Top 3). Undergraduate Thesis. [Citibanamex Economics Prize](https://www.banamex.com/premioeconomia/index.html). \hfill 2021
 
 - ITAM Special Mention Distinction. Awarded to students with an outstanding thesis
 defense and a final average grade above 8.5 out of 10. \hfill 2021
@@ -87,6 +108,6 @@ defense and a final average grade above 8.5 out of 10. \hfill 2021
 
 # Scholarships and Felowships
 
-- FIDERH (Fund for Human Resource Development), Banco de México. \hfill 2023
+- FIDERH (Fund for Human Resource Development). Banco de México. \hfill 2023
 
 - ITAM 50 percent academic excellence scholarship for BA studies. \hfill 2016 - 2019
