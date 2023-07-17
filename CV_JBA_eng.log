@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.27)  17 JUL 2023 20:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.27)  17 JUL 2023 21:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -474,26 +474,26 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomethree on in
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 199.
+(Font)              scaled to size 9.37807pt on input line 203.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 199.
+(Font)              scaled to size 7.29405pt on input line 203.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 199.
+(Font)              scaled to size 5.21004pt on input line 203.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 199.
+(Font)              scaled to size 9.37807pt on input line 203.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 199.
+(Font)              scaled to size 7.29405pt on input line 203.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 199.
+(Font)              scaled to size 5.21004pt on input line 203.
 [1
 
 {/Users/joaquinbarrutia/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}]
-Overfull \hbox (2.41994pt too wide) in paragraph at lines 330--342
+Overfull \hbox (2.41994pt too wide) in paragraph at lines 334--346
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--344
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
 
  []
 
@@ -512,10 +512,10 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  72i,11n,76p,1199b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/joaquinbarrutia/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_JBA_eng.pdf (2 pages, 104653 bytes).
+Output written on CV_JBA_eng.pdf (2 pages, 105074 bytes).
 PDF statistics:
- 188 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
+ 192 PDF objects out of 1000 (max. 8388607)
+ 158 compressed objects within 2 object streams
  40 named destinations out of 1000 (max. 500000)
  145 words of extra memory for PDF output out of 10000 (max. 10000000)
 

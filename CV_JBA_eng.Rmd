@@ -48,13 +48,13 @@ urlcolor: blue
 
 - Pre-Doctoral Fellow \hfill 2023-
 
-  - *Working as a pre-doctoral research fellow with Laurent Bouton (Georgetown) through the United Programs for Political Economy Research ([UPPER Network](https://sites.google.com/view/dcpec/upper)) as part of the Global Research Training Initiative.*
+  - *Working as a Predoctoral Research Fellow with [Laurent Bouton](https://sites.google.com/site/boutonllj/) (Georgetown) through the United Programs for Political Economy Research ([UPPER Network](https://sites.google.com/view/dcpec/upper)) as part of the Global Research Training Initiative.*
 
 ## Center for Economic Research ([CIE](http://cie.itam.mx/)), ITAM, Mexico City
 
 - Reaserch Assistant \hfill 2022-
 
-  - *Working in a Mercury Project research team with Antonella Bandiera (ITAM), Horacio Larreguy (ITAM), and John Marshall (Columbia), partnering with fact-checkers in Kenya, South Africa, and Bolivia, conducting two studies to test approaches to counter misinformation.*^[[Harnessing influencers to counter misinformation: Scalable solutions in the Global South.](https://www.ssrc.org/grantees/general-scalable-solutions-to-counter-misinformation-in-the-global-south/)]
+  - *Working in a Mercury Project research team with [Antonella Bandiera](https://www.antonellabandiera.com/) (ITAM), [Horacio Larreguy](https://sites.google.com/site/hlarreguy) (ITAM), and [John Marshall](https://scholar.harvard.edu/jmarshall) (Columbia), partnering with fact-checkers in Kenya, South Africa, and Bolivia, conducting two studies to test approaches to counter misinformation.*^[[Harnessing influencers to counter misinformation: Scalable solutions in the Global South.](https://www.ssrc.org/grantees/general-scalable-solutions-to-counter-misinformation-in-the-global-south/)]
   
   - *Some of my tasks include: using Twitter API to retrieve user information, cleaning data, running regression analysis, training and using Machine Learning models to predict outcomes, setting Twitter Ad Campaigns and collecting their data.*
 
