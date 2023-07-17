@@ -98,7 +98,7 @@ urlcolor: blue
 
 - First Place. Undergraduate Thesis. Premio ExITAM ---Best thesis in Economics. \hfill 2023
 
-- Honorific Mention (Top 3). Undergraduate Thesis. [Citibanamex Economics Prize](https://www.banamex.com/premioeconomia/index.html). \hfill 2021
+- Honorable Mention (Top 3). Undergraduate Thesis. [Citibanamex Economics Prize](https://www.banamex.com/premioeconomia/index.html). \hfill 2021
 
 - ITAM Special Mention Distinction. Awarded to students with an outstanding thesis
 defense and a final average grade above 8.5 out of 10. \hfill 2021
@@ -121,18 +121,12 @@ Mexico City, Mexico\\
 \faEnvelopeO \text{} \href{mailto:horacio.larreguy@itam.mx}{horacio.larreguy@itam.mx}
 \end{minipage}
 \begin{minipage}[t]{0.5\textwidth}
-Jaakko Meriläinen\\
-ITAM\\
-Mexico City, Mexico\\
-\faEnvelopeO \text{} \href{mailto:jaakko.merilainen@itam.mx}{jaakko.merilainen@itam.mx}
-\end{minipage}
-\
-\begin{minipage}[t]{0.5\textwidth}
 Antonella Bandiera\\
 ITAM\\
 Mexico City, Mexico\\
 \faEnvelopeO \text{} \href{mailto:antonella.bandiera@itam.mx}{antonella.bandiera@itam.mx}
 \end{minipage}
+\
 \begin{minipage}[t]{0.5\textwidth}
 John Marshall\\
 Columbia University\\
