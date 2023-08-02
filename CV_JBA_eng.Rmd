@@ -124,18 +124,12 @@ Mexico City, Mexico\\
 \faEnvelopeO \text{} \href{mailto:horacio.larreguy@itam.mx}{horacio.larreguy@itam.mx}
 \end{minipage}
 \begin{minipage}[t]{0.5\textwidth}
-Jaakko Meriläinen\\
-ITAM\\
-Mexico City, Mexico\\
-\faEnvelopeO \text{} \href{mailto:jaakko.merilainen@itam.mx}{jaakko.merilainen@itam.mx}
-\end{minipage}
-\
-\begin{minipage}[t]{0.5\textwidth}
 Antonella Bandiera\\
 ITAM\\
 Mexico City, Mexico\\
 \faEnvelopeO \text{} \href{mailto:antonella.bandiera@itam.mx}{antonella.bandiera@itam.mx}
 \end{minipage}
+\
 \begin{minipage}[t]{0.5\textwidth}
 John Marshall\\
 Columbia University\\
