@@ -64,7 +64,7 @@ urlcolor: blue
 
 # Research Interests 
 
-- Cooperative Economics, Development Economics, Income Distribution, Political Economy
+- Applied Econometrics, Cooperative Economics, Development Economics, Political Economy
 
 # Skills & Relevant Coursework
 
