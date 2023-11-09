@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.9)  9 NOV 2023 21:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.9)  9 NOV 2023 21:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -538,12 +538,12 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 [1
 
 {/Users/joaquinbarrutia/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}]
-Overfull \hbox (2.41994pt too wide) in paragraph at lines 348--362
+Overfull \hbox (2.41994pt too wide) in paragraph at lines 350--364
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
 
  []
 
@@ -555,21 +555,21 @@ LaTeX2e <2023-11-01>
 L3 programming layer <2023-11-01>
  ***********
 Package rerunfilecheck Info: File `CV_JBA_eng.out' has not changed.
-(rerunfilecheck)             Checksum: 4B7F3920C5F085F8D074079E200CA3AC;3475.
+(rerunfilecheck)             Checksum: A682E4D246CB35F6EC38B2CF2E0CBC99;3468.
  ) 
 Here is how much of TeX's memory you used:
- 15437 strings out of 476238
- 242110 string characters out of 5795520
+ 15440 strings out of 476238
+ 242149 string characters out of 5795520
  1941530 words of memory out of 5000000
- 36937 multiletter control sequences out of 15000+600000
- 612303 words of font info for 211 fonts, out of 8000000 for 9000
+ 36939 multiletter control sequences out of 15000+600000
+ 614286 words of font info for 211 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,11n,79p,1199b,537s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_JBA_eng.pdf (2 pages, 101278 bytes).
+</Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on CV_JBA_eng.pdf (2 pages, 109324 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 150 compressed objects within 2 object streams
- 40 named destinations out of 1000 (max. 500000)
- 69777 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 174 PDF objects out of 1000 (max. 8388607)
+ 155 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 71825 words of extra memory for PDF output out of 74296 (max. 10000000)
 

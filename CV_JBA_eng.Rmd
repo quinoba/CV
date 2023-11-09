@@ -80,9 +80,9 @@ urlcolor: blue
 
 - Spanish (native), English (fluent), Mandarin Chinese (HSK1)
 
-## Relevant Coursework
+## Relevant Coursework^[$\text{UU}=\text{Uppsala University}$, $\text{SU}=\text{Stockholm University}$]
 
-- Microeconomic Theory (ITAM, UU), Macroeconomic Theory (ITAM, UU), Econometric Theory (ITAM, UU), Applied Microeconometrics (ITAM, UU), Matrix Algebra (ITAM), Real Analysis (ITAM), Univariate and Multivariate Calculus (ITAM), Probability Theory (ITAM), Statistical Inference (ITAM), Applied Macroeconometrics (ITAM)
+- Microeconomic Theory (ITAM, UU), Macroeconomic Theory (ITAM, UU), Econometric Theory (ITAM, UU), Applied Microeconometrics (ITAM, UU), Time Series Econometrics (ITAM, UU), Real Analysis (ITAM, SU), Matrix Algebra (ITAM), Univariate and Multivariate Calculus (ITAM), Probability Theory (ITAM), Statistical Inference (ITAM), Bayesian Statistics (UU), Machine Learning (UU)
 
 # Additional Training
 
