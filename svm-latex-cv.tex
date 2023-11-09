@@ -171,6 +171,12 @@ $endfor$
 \sectionfont{\rmfamily\mdseries\large\bf}
 \subsectionfont{\rmfamily\mdseries\normalsize\scshape}
 
+\usepackage[usenames, dvipsnames]{color}
+\definecolor{mygray}{gray}{0.6}
+
+\usepackage[explicit]{titlesec}% http://ctan.org/pkg/titlesec
+\def\Vhrulefill{\leavevmode\leaders\hrule height 0.0ex depth \dimexpr 0.3pt-0.0ex\hfill\kern0pt} %change both #.#ex to change height
+\titleformat{\section}{\bfseries\Large}{}{0pt}{#1~\color{mygray}\Vhrulefill}
 
 % Make lists without bullets
 \renewenvironment{itemize}{
@@ -179,6 +185,13 @@ $endfor$
   }
 }{
   \end{list}
+}
+
+% Define a new environment for bulleted items in specific sections
+\newenvironment{myitemize}{
+  \begin{itemize}
+}{
+  \end{itemize}
 }
 
 
@@ -230,7 +243,7 @@ $endif$
 
 \usepackage{datetime}
 \newdateformat{apstylekinda}{%
-  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+  \shortmonthname[\THEMONTH], \THEYEAR}
 
 \begin{document}
 
@@ -242,15 +255,26 @@ $endif$
 \hrule
 
 \vspace{2 mm}
-
+%job title
 $if(jobtitle)$\moveleft.5\hoffset\centerline{$jobtitle$}$endif$
+%address
 $if(address)$\moveleft.5\hoffset\centerline{$address$}$endif$
-\moveleft.5\hoffset\centerline{ $if(email)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\tt $email$} \hspace{1 mm}$endif$ $if(phone)$$if(fontawesome)$ \faPhone \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$ $if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\tt $github$} \hspace{1 mm} $endif$  $if(twitter)$$if(fontawesome)$\faTwitter \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{https:/twitter.com/$twitter$}{\tt $twitter$} \hspace{1 mm} $endif$ $if(osf)$$if(fontawesome)$\faUnlock \hspace{1 mm}$else$\emph{osf:}$endif$ \href{https:/osf.io/$osf$}{\tt osf.io/$osf$} \hspace{1 mm} $endif$ $if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$}  $endif$ $if(updated)$ | \emph{Updated:} \apstylekinda\today$endif$} 
+\moveleft.5\hoffset\centerline{ 
+%email
+$if(email)$$if(fontawesome)$\faEnvelopeO \hspace{1 mm}$else$\emph{E-mail:}$endif$ \href{mailto:}{\color{black} $email$} \hspace{1 mm}$endif$ 
+%phone
+$if(phone)$$if(fontawesome)$ \faMobile \hspace{1 mm}$else$\emph{Phone:}$endif$  $phone$  \hspace{1 mm} $endif$ 
+%github
+$if(github)$$if(fontawesome)$\faGithub \hspace{1 mm}$else$\emph{Github:}$endif$ \href{http://github.com/$github$}{\color{black} $github$} \hspace{1 mm} $endif$  
+%github
+$if(twitter)$$if(fontawesome)$\faTwitter \hspace{1 mm}$else$\emph{Twitter:}$endif$ \href{http://twitter.com/$twitter$}{\color{black} $twitter$} \hspace{1 mm} $endif$  
+%website
+$if(web)$$if(fontawesome)$\faGlobe \hspace{1 mm}$else$\emph{Web:}$endif$ \href{http://$web$}{\tt $web$}  $endif$ $if(updated)$ | \emph{Updated:} \apstylekinda\today$endif$}
+
 
 \vspace{2 mm}
 
 \hrule
-
 
 $body$
 

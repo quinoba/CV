@@ -17,7 +17,7 @@ twitter: j_barrutia
 #osf: "Enter 5 digit osf string here"
 phone: "[+46 762617438](tel:+46762617438)"
 #web: guinness.com
-#updated: no
+updated: yes
 
 keywords: R Markdown, academic CV, template
 
@@ -39,24 +39,28 @@ urlcolor: blue
 - Diploma, Data Science & Machine Learning Applied to Financial Markets \hfill 2021-2022
 
 - B.A. (Honors), Economics  \hfill 2016-2021
-  - *Thesis: [We Both Step and Do Not Step in the Same Rivers:  Municipal Cooperation and Water Pollution Spillovers in Mexico](https://github.com/quinoba/Spillovers_Cooperation) (Supervisor: Emilio Gutiérrez, Ph.D.)*
+\begin{myitemize}
+  \item[--] \textit{Thesis: \href{https://github.com/quinoba/Spillovers_Cooperation}{We Both Step and Do Not Step in the Same Rivers: Municipal Cooperation and Water Pollution Spillovers in Mexico} (Supervisor: Emilio Gutiérrez, Ph.D.)}
+\end{myitemize}
 
 # Experience
 
 
 ## Georgetown University, Washington, D.C.
 
-- Pre-Doctoral Fellow \hfill 2023-
 
-  - *Working as a Predoctoral Research Fellow with Dr. Laurent Bouton (Georgetown) through the United Programs for Political Economy Research ([UPPER Network](https://sites.google.com/view/dcpec/upper)) as part of the Global Research Training Initiative.*
+- Pre-Doctoral Fellow \hfill 2023-
+\begin{myitemize}
+  \item[--] \textit{Working as a Predoctoral Research Fellow with Dr. Laurent Bouton (Georgetown) through the United Programs for Political Economy Research (\href{https://sites.google.com/view/dcpec/upper}{UPPER Network}) as part of the Global Research Training Initiative.}
+\end{myitemize}
 
 ## Center for Economic Research ([CIE](http://cie.itam.mx/)), ITAM, Mexico City
 
 - Reaserch Assistant \hfill 2022-
-
-  - *Working in a Mercury Project research team with Dr. Antonella Bandiera (ITAM), Dr. Horacio Larreguy (ITAM), and Dr. John Marshall (Columbia), partnering with fact-checkers in Kenya, South Africa, and Bolivia, conducting two studies to test approaches to counter misinformation.*^[[Harnessing influencers to counter misinformation: Scalable solutions in the Global South.](https://www.ssrc.org/grantees/general-scalable-solutions-to-counter-misinformation-in-the-global-south/)]
+\begin{myitemize}
+  \item[--] \textit{Working in a Mercury Project research team with Dr. Antonella Bandiera (ITAM), Dr. Horacio Larreguy (ITAM), and Dr. John Marshall (Columbia), partnering with fact-checkers in Kenya, South Africa, and Bolivia, conducting two studies to test approaches to counter misinformation.\footnote{\href{https://www.ssrc.org/grantees/general-scalable-solutions-to-counter-misinformation-in-the-global-south/}{Harnessing influencers to counter misinformation: Scalable solutions in the Global South.}}}
+\end{myitemize}
   
-  - *Some of my tasks include: using Twitter API to retrieve user information, cleaning data, running regression analysis, training and using Machine Learning models to predict outcomes, setting Twitter Ad Campaigns and collecting their data.*
 
 ## UNIFIN Financiera, Mexico City
 
