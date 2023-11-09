@@ -40,7 +40,7 @@ urlcolor: blue
 
 - B.A. (Honors), Economics  \hfill 2016-2021
 \begin{myitemize}
-  \item[--] \textit{Thesis: \href{https://github.com/quinoba/Spillovers_Cooperation}{We Both Step and Do Not Step in the Same Rivers: Municipal Cooperation and Water Pollution Spillovers in Mexico} (Supervisor: Emilio Gutiérrez, Ph.D.)}
+  \item[--] \textit{Thesis: \href{https://github.com/quinoba/Spillovers_Cooperation}{We Both Step and Do Not Step in the Same Rivers: Municipal Cooperation and Water Pollution Spillovers in Mexico}. Supervisor: Emilio Gutiérrez, Ph.D.}
 \end{myitemize}
 
 # Experience
