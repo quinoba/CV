@@ -175,8 +175,17 @@ $endfor$
 \definecolor{mygray}{gray}{0.6}
 
 \usepackage[explicit]{titlesec}% http://ctan.org/pkg/titlesec
+\newcounter{sectioncount}
 \def\Vhrulefill{\leavevmode\leaders\hrule height 0.0ex depth \dimexpr 0.3pt-0.0ex\hfill\kern0pt} %change both #.#ex to change height
-\titleformat{\section}{\bfseries\Large}{}{0pt}{#1~\color{mygray}\Vhrulefill}
+\titleformat{\section}{\bfseries\Large}{}{0pt}{%
+  \stepcounter{sectioncount}%
+  \ifnum\value{sectioncount}>1
+    #1~\color{mygray}\Vhrulefill
+  \else
+    #1
+  \fi
+}
+
 
 % Make lists without bullets
 \renewenvironment{itemize}{
