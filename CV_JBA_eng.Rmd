@@ -12,8 +12,8 @@ jobtitle: "Pre-Doctoral Fellow, Georgetown University"
 address: "Uppsala, Sweden"
 fontawesome: yes
 email: joaquinbarrutia@gmail.com  
-github: quinoba
-twitter: j_barrutia
+github: "[quinoba](http://github.com/quinoba)"
+twitter: "[j_barrutia](https://twitter.com/j_barrutia)"
 #osf: "Enter 5 digit osf string here"
 phone: "[+46 762617438](tel:+46762617438)"
 #web: guinness.com
@@ -24,8 +24,8 @@ keywords: R Markdown, academic CV, template
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
-linkcolor: blue
-urlcolor: blue
+#linkcolor: blue
+#urlcolor: no
 ---
 
 \cfoot{\scriptsize  Joaquín Barrutia - CV}
