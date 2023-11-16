@@ -68,7 +68,7 @@ fontsize: 11pt
 
 # Research Interests 
 
-- Applied Econometrics, Cooperative Economics, Development Economics, Political Economy
+- Applied Econometrics, Development Economics, Political Economy
 
 # Skills & Relevant Coursework
 
