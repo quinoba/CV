@@ -56,7 +56,7 @@ fontsize: 11pt
 
 ## Center for Economic Research ([CIE](http://cie.itam.mx/)), ITAM, Mexico City
 
-- Reaserch Assistant \hfill 2022-
+- Reaserch Assistant \hfill 2021-
 \begin{myitemize}
   \item[--] \textit{Working in a Mercury Project research team with Dr. Antonella Bandiera (ITAM), Dr. Horacio Larreguy (ITAM), and Dr. John Marshall (Columbia), partnering with fact-checkers in Kenya, South Africa, and Bolivia, conducting two studies to test approaches to counter misinformation.\footnote{\href{https://www.ssrc.org/grantees/general-scalable-solutions-to-counter-misinformation-in-the-global-south/}{Harnessing influencers to counter misinformation: Scalable solutions in the Global South.}}}
 \end{myitemize}
@@ -142,4 +142,11 @@ Associate Professor\\
 Columbia University\\
 New York, United States\\
 \faEnvelopeO \text{} \href{mailto:jm4401@columbia.edu }{jm4401@columbia.edu }
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+Laurent Bouton\\
+Professor\\
+Georgetown University\\
+Washington, D.C., United States\\
+\faEnvelopeO \text{} \href{mailto:lb910@georgetown.edu}{lb910@georgetown.edu }
 \end{minipage}
