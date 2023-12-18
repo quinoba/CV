@@ -57,7 +57,7 @@ fontsize: 11pt
 
 - Pre-Doctoral Fellow \hfill 2023-
 \begin{myitemize}
-  \item[--] Working as a Predoctoral Research Fellow with Dr. Laurent Bouton (Georgetown) through the United Programs for Political Economy Research (UPPER Network) as part of the \href{https://upperesearch.org/grti/}{Global Research Training Initiative}.
+  \item[--] Working with Dr. Laurent Bouton (Georgetown) through the United Programs for Political Economy Research (UPPER Network) as part of the \href{https://upperesearch.org/grti/}{Global Research Training Initiative}.
 \end{myitemize}
 
 ## Center for Economic Research ([CIE](http://cie.itam.mx/)), ITAM, Mexico City
