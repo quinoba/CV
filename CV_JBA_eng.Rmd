@@ -37,7 +37,7 @@ fontsize: 11pt
 # Education
 
 ## Uppsala University, Uppsala, Sweden
-- M.Sc., Economics \hfill 2022-2024
+- Master of Social Sciences, Economics \hfill 2022-2024
 
 ## Instituto Tecnológico Autónomo de México (ITAM), Mexico City, Mexico 
 
