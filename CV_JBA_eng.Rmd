@@ -30,18 +30,24 @@ fontsize: 11pt
 
 \cfoot{\scriptsize  Joaquín Barrutia - CV}
 
+# Research Interests 
+
+- Applied Econometrics, Development Economics, Political Economy
+
 # Education
 
 ## Uppsala University, Uppsala, Sweden
 - M.Sc., Economics \hfill 2022-2024
 
 ## Instituto Tecnológico Autónomo de México (ITAM), Mexico City, Mexico 
-- Diploma, Data Science & Machine Learning Applied to Financial Markets \hfill 2021-2022
 
 - B.A. (Honors), Economics  \hfill 2016-2021
 \begin{myitemize}
-  \item[--] \textit{Thesis: \href{https://github.com/quinoba/Spillovers_Cooperation}{We Both Step and Do Not Step in the Same Rivers: Municipal Cooperation and Water Pollution Spillovers in Mexico}. Supervisor: Emilio Gutiérrez, Ph.D.}
+  \item[--] Thesis: \textit{\href{https://github.com/quinoba/Spillovers_Cooperation}{We Both Step and Do Not Step in the Same Rivers: Municipal Cooperation and Water Pollution Spillovers in Mexico}}. Supervisor: Emilio Gutiérrez, Ph.D.
 \end{myitemize}
+
+- Diploma, Data Science & Machine Learning Applied to Financial Markets \hfill 2021-2022
+
 
 # Experience
 
@@ -51,14 +57,14 @@ fontsize: 11pt
 
 - Pre-Doctoral Fellow \hfill 2023-
 \begin{myitemize}
-  \item[--] \textit{Working as a Predoctoral Research Fellow with Dr. Laurent Bouton (Georgetown) through the United Programs for Political Economy Research (\href{https://sites.google.com/view/dcpec/upper}{UPPER Network}) as part of the Global Research Training Initiative.}
+  \item[--] Working as a Predoctoral Research Fellow with Dr. Laurent Bouton (Georgetown) through the United Programs for Political Economy Research (UPPER Network) as part of the \href{https://upperesearch.org/grti/}{Global Research Training Initiative}.
 \end{myitemize}
 
 ## Center for Economic Research ([CIE](http://cie.itam.mx/)), ITAM, Mexico City
 
 - Reaserch Assistant \hfill 2021-
 \begin{myitemize}
-  \item[--] \textit{Working in a Mercury Project research team with Dr. Antonella Bandiera (ITAM), Dr. Horacio Larreguy (ITAM), and Dr. John Marshall (Columbia), partnering with fact-checkers in Kenya, South Africa, and Bolivia, conducting two studies to test approaches to counter misinformation.\footnote{\href{https://www.ssrc.org/grantees/general-scalable-solutions-to-counter-misinformation-in-the-global-south/}{Harnessing influencers to counter misinformation: Scalable solutions in the Global South.}}}
+  \item[--] Working in a Mercury Project research team with Dr. Antonella Bandiera (ITAM), Dr. Horacio Larreguy (ITAM), and Dr. John Marshall (Columbia), partnering with fact-checkers in Kenya, South Africa, and Bolivia, conducting two studies to test approaches to counter misinformation.
 \end{myitemize}
   
 
@@ -66,9 +72,11 @@ fontsize: 11pt
 
 - Structured Finance Analyst \hfill 2020-2022
 
-# Research Interests 
+# Work in Progress
 
-- Applied Econometrics, Development Economics, Political Economy
+- \textit{Harnessing Social Influencers to Combat Misinformation: Scalable Solutions in the Global South}  (with Antonella Bandiera, Jeremy Bowles, Shelley Liu, Horacio Larreguy, John Marshall, and Eduardo Zago) \hfill \href{https://docsend.dropbox.com/view/a4u4tkvtzpwiuf23}{Slides}
+
+\newpage
 
 # Skills & Relevant Coursework
 
@@ -89,8 +97,9 @@ fontsize: 11pt
 ## University of Ioannina & University of Piraeus, Spetses, Greece
 
 - 5th Summer School in Advanced Economics (Lecturer: Jeffrey M. Woolridge, Ph.D.) \hfill 2023
-
-  - *Course on Causal Inference, Potential Outcomes and Difference-in-Differences estimation.*
+\begin{myitemize}
+  \item[--]Course on Causal Inference, Potential Outcomes and Difference-in-Differences estimation.
+\end{myitemize}
 
 
 ## Causal Solutions
@@ -118,6 +127,7 @@ defense and a final average grade above 8.5 out of 10. \hfill 2021
 
 - ITAM 50 percent academic excellence scholarship for BA studies. \hfill 2016 - 2019
 
+\newpage 
 
 # References
 
@@ -129,11 +139,11 @@ Mexico City, Mexico\\
 \faEnvelopeO \text{} \href{mailto:horacio.larreguy@itam.mx}{horacio.larreguy@itam.mx}
 \end{minipage}
 \begin{minipage}[t]{0.5\textwidth}
-Antonella Bandiera\\
-Assistant Professor\\
-ITAM\\
-Mexico City, Mexico\\
-\faEnvelopeO \text{} \href{mailto:antonella.bandiera@itam.mx}{antonella.bandiera@itam.mx}
+Laurent Bouton\\
+Professor\\
+Georgetown University\\
+Washington, D.C., United States\\
+\faEnvelopeO \text{} \href{mailto:lb910@georgetown.edu}{lb910@georgetown.edu}
 \end{minipage}
 \
 \begin{minipage}[t]{0.5\textwidth}
@@ -141,12 +151,12 @@ John Marshall\\
 Associate Professor\\
 Columbia University\\
 New York, United States\\
-\faEnvelopeO \text{} \href{mailto:jm4401@columbia.edu }{jm4401@columbia.edu }
+\faEnvelopeO \text{} \href{mailto:jm4401@columbia.edu }{jm4401@columbia.edu}
 \end{minipage}
 \begin{minipage}[t]{0.5\textwidth}
-Laurent Bouton\\
-Professor\\
-Georgetown University\\
-Washington, D.C., United States\\
-\faEnvelopeO \text{} \href{mailto:lb910@georgetown.edu}{lb910@georgetown.edu }
+Jaakko Meriläinen\\
+Assistant Professor\\
+Stockholm School of Economics \\
+Stockholm, Sweden\\
+\faEnvelopeO \text{} \href{mailto:jaakko.merilainen@hhs.se}{ jaakko.merilainen@hhs.se}
 \end{minipage}
