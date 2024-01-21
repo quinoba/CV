@@ -41,12 +41,13 @@ fontsize: 11pt
 
 ## Instituto Tecnológico Autónomo de México (ITAM), Mexico City, Mexico 
 
+- Diploma, Data Science & Machine Learning Applied to Financial Markets \hfill 2021-2022
+
+
 - B.A. (Honors), Economics  \hfill 2016-2021
 \begin{myitemize}
   \item[--] Thesis: "\textit{\href{https://github.com/quinoba/Spillovers_Cooperation}{We Both Step and Do Not Step in the Same Rivers: Municipal Cooperation and Water Pollution Spillovers in Mexico}}." Supervisor: Emilio Gutiérrez, Ph.D.
 \end{myitemize}
-
-- Diploma, Data Science & Machine Learning Applied to Financial Markets \hfill 2021-2022
 
 
 # Experience

@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.6)  9 JAN 2024 00:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.11)  21 JAN 2024 17:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV_JBA_eng.tex
 (./CV_JBA_eng.tex
 LaTeX2e <2023-11-01>
-L3 programming layer <2023-12-11>
+L3 programming layer <2024-01-04>
 (/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -388,7 +388,7 @@ LaTeX Info: Redefining \today on input line 736.
 \dt@a=\toks32
 \dt@b=\toks33
 ) (/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count318
 \l__pdf_internal_box=\box55
 ) (./CV_JBA_eng.aux)
@@ -526,29 +526,29 @@ Package microtype Info: Character `029' is missing
 
 {/Users/joaquinbarrutia/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 281.
+(Font)              scaled to size 9.37807pt on input line 280.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 281.
+(Font)              scaled to size 7.29405pt on input line 280.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 281.
+(Font)              scaled to size 5.21004pt on input line 280.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 281.
+(Font)              scaled to size 9.37807pt on input line 280.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 281.
+(Font)              scaled to size 7.29405pt on input line 280.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 281.
+(Font)              scaled to size 5.21004pt on input line 280.
 [2]
-Overfull \hbox (2.41994pt too wide) in paragraph at lines 363--377
+Overfull \hbox (2.41994pt too wide) in paragraph at lines 362--376
 [][] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
 
  []
 
 
-Overfull \hbox (2.41994pt too wide) in paragraph at lines 380--394
+Overfull \hbox (2.41994pt too wide) in paragraph at lines 379--393
 [][] [] 
  []
 
@@ -557,21 +557,21 @@ enddocument/afterlastpage: lastpage setting LastPage.
 (./CV_JBA_eng.aux)
  ***********
 LaTeX2e <2023-11-01>
-L3 programming layer <2023-12-11>
+L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `CV_JBA_eng.out' has not changed.
 (rerunfilecheck)             Checksum: 6A4580CF6E6810DACDF4764CECBFB407;3603.
  ) 
 Here is how much of TeX's memory you used:
- 15452 strings out of 476141
- 242413 string characters out of 5793671
- 1939457 words of memory out of 5000000
- 37039 multiletter control sequences out of 15000+600000
+ 15452 strings out of 476132
+ 242413 string characters out of 5793490
+ 1939525 words of memory out of 5000000
+ 37048 multiletter control sequences out of 15000+600000
  614648 words of font info for 216 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,11n,79p,1199b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/joaquinbarrutia/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_JBA_eng.pdf (3 pages, 108575 bytes).
+Output written on CV_JBA_eng.pdf (3 pages, 108585 bytes).
 PDF statistics:
  184 PDF objects out of 1000 (max. 8388607)
  164 compressed objects within 2 object streams
