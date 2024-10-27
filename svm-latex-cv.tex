@@ -166,14 +166,17 @@ $endfor$
 % Now begins the stuff that I added.
 % ----------------------------------
 
+\usepackage{kpfonts}
 % Custom section fonts
 \usepackage{sectsty}
+
 \sectionfont{\rmfamily\mdseries\large\bf}
-\subsectionfont{\rmfamily\mdseries\normalsize\scshape}
+\subsectionfont{\rmfamily\bfseries\normalsize\scshape}
 
 \usepackage[usenames, dvipsnames]{color}
 \definecolor{mygray}{gray}{0.6}
-
+\usepackage{contour}
+\usepackage{bold-extra}
 \usepackage[explicit]{titlesec}% http://ctan.org/pkg/titlesec
 \newcounter{sectioncount}
 \def\Vhrulefill{\leavevmode\leaders\hrule height 0.0ex depth \dimexpr 0.3pt-0.0ex\hfill\kern0pt} %change both #.#ex to change height
