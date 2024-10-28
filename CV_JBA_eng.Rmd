@@ -40,7 +40,7 @@ fontsize: 11pt
 
 ## Instituto Tecnológico Autónomo de México (ITAM)
 
-- B.A. in Economics  \hfill 2016-2021
+- BA in Economics  \hfill 2016-2021
 
 
 # Experience
