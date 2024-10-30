@@ -64,7 +64,7 @@ fontsize: 11pt
 
 # Work in Progress
 
-- \textit{Harnessing Social Influencers or Using X Ads to Counter Misinformation in the Global South?} with Antonella Bandiera, Jeremy Bowles, Shelley Liu, Horacio Larreguy, John Marshall, and Eduardo Zago. \hfill \href{https://www.socialscienceregistry.org/trials/14139}{Pre-registration}
+- \textit{Harnessing Social Influencers or Using X Ads to Counter Misinformation in the Global South?} with Antonella Bandiera, Jeremy Bowles, Shelley Liu, Horacio Larreguy, John Marshall, and Eduardo Zago. \hfill \href{https://www.socialscienceregistry.org/trials/14139}{[Pre-registration]}
 
 - \textit{Can AI exponentiate Fact-checking Efforts in the Global South?} with Antonella Bandiera, Horacio Larreguy, John Marshall, and Eduardo Zago.
 
