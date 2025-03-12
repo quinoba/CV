@@ -78,6 +78,8 @@ fontsize: 11pt
 
 # Scholarships & Felowships
 
+- Laney Graduate School Full Scholarship and Stipend. \hfill 2024 - 2029
+
 - FIDERH (Fund for Human Resource Development). Banco de México. \hfill 2023
 
 - Uppsala University International Scholarship Fund for Extra Course. \hfill 2023
@@ -112,7 +114,7 @@ fontsize: 11pt
 
 ## Languages
 
-- Spanish (native), English (fluent)
+- Spanish (native), English (fluent), Mandarin (HSK1)
 
 # References
 
